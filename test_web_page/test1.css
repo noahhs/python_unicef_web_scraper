@@ -1,0 +1,23 @@
+/* Handy hex codes:
+	#FF0000	red
+	#0000FF blue
+	#00FF00 green
+	#FF00FF	purple	*/
+
+h1
+{
+	font-weight:	bold;
+	font-size:	14pt
+}
+div.cls1
+{
+	font-size:	12pt
+}
+div.cls1 a.link_class
+{
+	font-weight:	bold
+}
+div.cls2
+{
+	font-size:	10pt
+}
